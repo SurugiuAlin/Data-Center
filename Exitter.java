@@ -1,4 +1,4 @@
-/* Do not modify (will be rewritten by the checker). */
+/* Do not modify. */
 
 /**
  * Class used for forcefully exiting the program after a given time.
