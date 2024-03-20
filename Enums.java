@@ -1,4 +1,4 @@
-/* Do not modify (will be rewritten by the checker). */
+/* Do not modify. */
 
 /**
  * Enum for the scheduling algorithm implemented by the dispatcher.
