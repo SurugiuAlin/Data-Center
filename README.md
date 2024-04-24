@@ -1,5 +1,5 @@
-# Data-Center
-Task planning in a data-center
+# Datacenter
+Task planning in a datacenter
 
 MyDispatcher and MyHost
 
