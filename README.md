@@ -1,5 +1,5 @@
 # Data-Center
-Planificarea de task-uri intr-un datacenter
+Task planning in a data-center
 
 MyDispatcher and MyHost
 
